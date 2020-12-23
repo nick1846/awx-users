@@ -1,6 +1,0 @@
----
-
-user_details:
-  - { name: 'nick', groups: ['docker'] }
-  - { name: 'kanishay', groups: ['docker'] }
-  - { name: 'zhanyl', groups: ['docker'] }
